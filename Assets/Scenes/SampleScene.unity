@@ -1170,7 +1170,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: d0eaa11f7693a564c98018af086e3eb4, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: b3a697f85a4be604182537282b41bb52, type: 2}
+      objectReference: {fileID: 2100000, guid: bc5dd2e79850bfc44ab7e18405773425, type: 2}
     - target: {fileID: 919132149155446097, guid: d0eaa11f7693a564c98018af086e3eb4, type: 3}
       propertyPath: m_Name
       value: LightHouse

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Light_lighthouse_mat
+  m_Name: lighthouse_light_mat 1
   m_Shader: {fileID: -6465566751694194690, guid: 5b46f0115ee7a9b48bcfbf149be90a48, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -82,14 +82,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Vector1_18854F8C: 0.755
+    - Vector1_18854F8C: 0.833
     - Vector1_28BC39B5: 0
-    - Vector1_40385CE1: 1.7
-    - Vector1_48BDE471: 0.452
+    - Vector1_40385CE1: 1.1
+    - Vector1_48BDE471: 0
     - Vector1_66425DE2: 0
     - Vector1_7C2E78E4: 0.5
     - Vector1_A0DB3845: 1
-    - Vector1_F1294C90: 0
+    - Vector1_F1294C90: 0.06
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
@@ -124,17 +124,17 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_9B881ED6: {r: 0.6273585, g: 0.8416882, b: 1, a: 1}
-    - Color_BED8F987: {r: 0.11129405, g: 0.16925462, b: 0.38679248, a: 1}
-    - Color_CA4EAD0D: {r: 1, g: 1, b: 1, a: 1}
-    - Color_E9CFA916: {r: 0.49261302, g: 0.7448492, b: 0.7735849, a: 0.1647059}
+    - Color_9B881ED6: {r: 0.40094337, g: 0.7435868, b: 1, a: 1}
+    - Color_BED8F987: {r: 0.9622642, g: 0.9622642, b: 0.9622642, a: 1}
+    - Color_CA4EAD0D: {r: 0.8490566, g: 0.244304, b: 0.244304, a: 1}
+    - Color_E9CFA916: {r: 1, g: 1, b: 1, a: 0.1647059}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &453215475701000657
+--- !u!114 &2351707437397494614
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
