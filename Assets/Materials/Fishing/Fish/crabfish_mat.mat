@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: gluttonfish_mat
+  m_Name: crabfish_mat
   m_Shader: {fileID: -6465566751694194690, guid: 5ccbd94437e6cfb43b24dea64bfad1b9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -38,7 +38,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - MainTex:
-        m_Texture: {fileID: 2800000, guid: 971c23a55f21cc94ab3e74ec9d457e6e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 39f21295fa1863d4c9d226281a6fe0f8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Mask_R_Emission:
